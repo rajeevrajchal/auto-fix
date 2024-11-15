@@ -3,7 +3,6 @@
 
 <section>
   <p>Hello Tauri</p>
-  <p>Hello Focus App</p>
 </section>
 
 <style lang="scss">
